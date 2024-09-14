@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Code-XT/Code-XT/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Code-XT/Code-XT/blob/output/github-contribution-grid-snake.svg)
 
 ###
